@@ -1,0 +1,29 @@
+.HideThisElement{
+	display: none	!important;
+}
+
+.table th {
+   text-align: center;   
+}
+.shadow-textarea textarea.form-control::placeholder {
+    font-weight: 300;
+     width: 100%;
+}
+.shadow-textarea textarea.form-control {
+    padding-left: 0.8rem;
+}
+#profile-ex {
+    max-height: 300px;
+    overflow-y: scroll;
+    background: ivory;
+}
+#home-ex {
+    max-height: 300px;
+    overflow-y: scroll;
+    background: ivory;
+}
+#comment-ex {
+    max-height: 300px;
+    overflow-y: scroll;
+    background: ivory;
+}
